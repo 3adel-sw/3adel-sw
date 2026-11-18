@@ -49,7 +49,7 @@
 ### Back-End (Junior)
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,docker,nginx&theme=dark" alt="Back-End skills" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Tools" />
