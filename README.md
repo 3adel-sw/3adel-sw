@@ -30,6 +30,9 @@
 
 **3+ years Front-End · 1+ year Back-End**
 
+- 🧑‍💼 **20+ clients** served
+- 🚀 **30+ projects** delivered
+
 ---
 
 ## 🌐 Languages
@@ -41,20 +44,67 @@
 
 ## 🧠 Skills
 
-### Front-End (Senior)
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,jquery&theme=dark" alt="Front-End skills" />
+### 🖥️ Backend Excellence
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,ts,prisma,redis,docker,nginx&theme=dark" alt="Backend skills" />
 
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-0F5C8C?logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 
-### Back-End (Junior)
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,docker,nginx&theme=dark" alt="Back-End skills" />
+### 🎨 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,jquery&theme=dark" alt="Frontend skills" />
 
-![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=white)
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Tools" />
+### 🗄️ Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,nginx&theme=dark" alt="Databases and infrastructure" />
 
-![Laragon](https://img.shields.io/badge/Laragon-0F5C8C?logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+### 🧰 Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Development tools" />
+
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?logoColor=white)
+
+### 🗺️ Technology Proficiency Matrix
+
+```mermaid
+mindmap
+  root((Adel Mahmoud))
+    Front-End
+      React.js
+      Next.js
+      TypeScript
+      Tailwind CSS
+      Bootstrap
+      jQuery
+      Alpine.js
+      Vite
+      React Router
+      TanStack Query
+      Zustand
+      Framer Motion
+      Recharts
+    Back-End
+      PHP
+      Laravel
+      Node.js
+      Express
+      Prisma
+      Redis
+      BullMQ
+      Bun
+    Databases
+      MySQL
+      PostgreSQL
+      SQL Server
+      MongoDB
+    DevOps and Tools
+      Git and GitHub
+      Docker
+      Nginx
+      VS Code
+      Figma
+      Laragon
+```
 
 <!-- Edit these lists to match your real stack -->
 
@@ -66,14 +116,15 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Onsyntax** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
+| **Onsyntax** | [PLACEHOLDER: one-line description] | Laravel · React 19 · Vite · Tailwind CSS 4 · TanStack Query · React Router 7 · i18next · Axios · ESLint |
 | **Ninjaco** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
 | **LMS Dashboard and Website** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
 | **Codexa** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
-| **Leap** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
-| **Coach Adel** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
-| **Laurz Lab** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
-| **Barcody** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
+| **Leap** | [PLACEHOLDER: one-line description] | React 19 · TanStack Start · TanStack Router · TanStack Query · TanStack Form · Tailwind CSS 4 · Vite · TypeScript · Zod · Firebase · LiveKit · Cloudflare Workers · Playwright · Biome · Bun |
+| **Coach Adel** | [PLACEHOLDER: one-line description] | Laravel · React 19 · Vite · Tailwind CSS 4 · React Router · Framer Motion · i18next · Recharts · Axios |
+| [**Laurz Lab**](https://github.com/3adel-sw/front-laurus-lab) | [PLACEHOLDER: one-line description] | React · Vite · Tailwind CSS 4 · React Router · TanStack Query · React Hook Form · Zod · Zustand · i18next · Vitest · Playwright |
+| **Ayman Portfolio** | [PLACEHOLDER: one-line description] | Laravel · Vite · Tailwind CSS 3 · Alpine.js · Axios · PostCSS |
+| **Barcody** | [PLACEHOLDER: one-line description] | Laravel · React 19 · Vite · Tailwind CSS 4 · React Router · Axios · react-datepicker · react-international-phone |
 
 <!-- Add each project's repo or live link once confirmed -->
 
@@ -99,9 +150,17 @@
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/PLACEHOLDER)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PLACEHOLDER@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://PLACEHOLDER)
+<p align="center">
+  <a href="https://linkedin.com/in/adel-mahmoud"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adel6dola6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://PLACEHOLDER"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://wa.me/201064620610"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3adel-sw&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/3adel-sw?label=FOLLOWERS&style=flat-square&logo=github" alt="Followers" />
+</p>
 
 ---
 
