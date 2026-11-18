@@ -42,13 +42,19 @@
 ## 🧠 Skills
 
 ### Front-End (Senior)
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,ts&theme=dark" alt="Front-End skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,jquery&theme=dark" alt="Front-End skills" />
+
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=black)
 
 ### Back-End (Junior)
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&theme=dark" alt="Back-End skills" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,docker,nginx&theme=dark" alt="Back-End skills" />
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Tools" />
+
+![Laragon](https://img.shields.io/badge/Laragon-0F5C8C?logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white)
 
 <!-- Edit these lists to match your real stack -->
 
