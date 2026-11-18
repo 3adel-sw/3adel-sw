@@ -122,7 +122,7 @@ mindmap
 | **Codexa** | [PLACEHOLDER: one-line description] | [PLACEHOLDER] |
 | **Leap** | [PLACEHOLDER: one-line description] | React 19 · TanStack Start · TanStack Router · TanStack Query · TanStack Form · Tailwind CSS 4 · Vite · TypeScript · Zod · Firebase · LiveKit · Cloudflare Workers · Playwright · Biome · Bun |
 | **Coach Adel** | [PLACEHOLDER: one-line description] | Laravel · React 19 · Vite · Tailwind CSS 4 · React Router · Framer Motion · i18next · Recharts · Axios |
-| [**Laurz Lab**](https://github.com/3adel-sw/front-laurus-lab) | [PLACEHOLDER: one-line description] | React · Vite · Tailwind CSS 4 · React Router · TanStack Query · React Hook Form · Zod · Zustand · i18next · Vitest · Playwright |
+| [**Laurz Lab**](PLACEHOLDER: one-line description) | [PLACEHOLDER: one-line description] | React · Vite · Tailwind CSS 4 · React Router · TanStack Query · React Hook Form · Zod · Zustand · i18next · Vitest · Playwright |
 | **Ayman Portfolio** | [PLACEHOLDER: one-line description] | Laravel · Vite · Tailwind CSS 3 · Alpine.js · Axios · PostCSS |
 | **Barcody** | [PLACEHOLDER: one-line description] | Laravel · React 19 · Vite · Tailwind CSS 4 · React Router · Axios · react-datepicker · react-international-phone |
 
