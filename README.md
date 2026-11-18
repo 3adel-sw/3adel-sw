@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Adel%20Mahmoud&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Senior%20Front-End%20%26%20Junior%20Back-End&descAlignY=60&descSize=20" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=80&lines=Adel+Mahmoud;Senior+Front-End+%26+Junior+Back-End" alt="Header" />
 
 ### 👋 Hi, I'm Adel Mahmoud
 
