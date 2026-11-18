@@ -37,13 +37,13 @@
 
 ## 📅 Skill Development Journey
 
-| Timeline | Technology Focus | Proficiency Level | Achievement |
-|---|---|---|---|
-| **2023** · Foundation | HTML, CSS | Advanced ⭐⭐⭐⭐⭐ | — |
-| **2023–2024** · Leadership | Git, GitHub, VS Code, Postman | Expert Leader ⭐⭐⭐⭐⭐⭐⭐⭐ | Team Leadership |
-| **2024** · Programming | C++ | Beginner ⭐⭐⭐ | — |
-| **2024–2025** · Enterprise | Python, MySQL, PostgreSQL | — | Backend Mastery |
-| **2025–2026** · Full-Stack | PHP, Laravel, Vue, React, Node.js | Advanced ⭐⭐⭐⭐⭐ | ✅ Professional Developer |
+| Timeline | Technology Focus | Proficiency Level |
+|---|---|---|
+| **2023** · Foundation | HTML, CSS | Advanced ⭐⭐⭐⭐⭐ |
+| **2023–2024** · Leadership | Git, GitHub, VS Code, Postman | Expert Leader ⭐⭐⭐⭐⭐⭐⭐⭐ |
+| **2024** · Programming | C++ | Beginner ⭐⭐⭐ |
+| **2024–2025** · Enterprise | Python, MySQL, PostgreSQL | — |
+| **2025–2026** · Full-Stack | PHP, Laravel, Vue, React, Node.js | Advanced ⭐⭐⭐⭐⭐ |
 
 ---
 
